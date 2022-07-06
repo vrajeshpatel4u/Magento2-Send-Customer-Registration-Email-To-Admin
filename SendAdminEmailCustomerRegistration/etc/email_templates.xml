@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+    <template id="customer_registration_admin_email" label="Customer Registration Admin Email" file="customer_registration_admin_email.html" type="html" module="V4U_SendAdminEmailCustomerRegistration" area="frontend"/>
+</config>
